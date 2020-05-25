@@ -1,0 +1,1198 @@
+run:
+kombinacja: 1
+  ABCDEFGH
+
+8    H    
+7  H      
+6       H 
+5   H     
+4      H  
+3        H
+2     H   
+1 H       
+
+
+kombinacja: 2
+  ABCDEFGH
+
+8     H   
+7  H      
+6    H    
+5       H 
+4   H     
+3        H
+2      H  
+1 H       
+
+
+kombinacja: 3
+  ABCDEFGH
+
+8   H     
+7     H   
+6  H      
+5        H
+4      H  
+3    H    
+2       H 
+1 H       
+
+
+kombinacja: 4
+  ABCDEFGH
+
+8   H     
+7      H  
+6    H    
+5  H      
+4        H
+3     H   
+2       H 
+1 H       
+
+
+kombinacja: 5
+  ABCDEFGH
+
+8     H   
+7       H 
+6 H       
+5   H     
+4        H
+3      H  
+2    H    
+1  H      
+
+
+kombinacja: 6
+  ABCDEFGH
+
+8    H    
+7      H  
+6        H
+5   H     
+4 H       
+3       H 
+2     H   
+1  H      
+
+
+kombinacja: 7
+  ABCDEFGH
+
+8   H     
+7      H  
+6        H
+5 H       
+4    H    
+3       H 
+2     H   
+1  H      
+
+
+kombinacja: 8
+  ABCDEFGH
+
+8     H   
+7   H     
+6        H
+5    H    
+4       H 
+3 H       
+2      H  
+1  H      
+
+
+kombinacja: 9
+  ABCDEFGH
+
+8     H   
+7       H 
+6    H    
+5 H       
+4   H     
+3        H
+2      H  
+1  H      
+
+
+kombinacja: 10
+  ABCDEFGH
+
+8    H    
+7 H       
+6     H   
+5        H
+4      H  
+3   H     
+2       H 
+1  H      
+
+
+kombinacja: 11
+  ABCDEFGH
+
+8   H     
+7      H  
+6    H    
+5 H       
+4        H
+3     H   
+2       H 
+1  H      
+
+
+kombinacja: 12
+  ABCDEFGH
+
+8    H    
+7       H 
+6     H   
+5   H     
+4 H       
+3      H  
+2        H
+1  H      
+
+
+kombinacja: 13
+  ABCDEFGH
+
+8      H  
+7    H    
+6  H      
+5        H
+4     H   
+3       H 
+2 H       
+1   H     
+
+
+kombinacja: 14
+  ABCDEFGH
+
+8      H  
+7    H    
+6       H 
+5 H       
+4        H
+3  H      
+2     H   
+1   H     
+
+
+kombinacja: 15
+  ABCDEFGH
+
+8 H       
+7       H 
+6    H    
+5      H  
+4        H
+3  H      
+2     H   
+1   H     
+
+
+kombinacja: 16
+  ABCDEFGH
+
+8      H  
+7        H
+6  H      
+5    H    
+4 H       
+3       H 
+2     H   
+1   H     
+
+
+kombinacja: 17
+  ABCDEFGH
+
+8      H  
+7  H      
+6       H 
+5 H       
+4    H    
+3        H
+2     H   
+1   H     
+
+
+kombinacja: 18
+  ABCDEFGH
+
+8    H    
+7       H 
+6 H       
+5        H
+4     H   
+3  H      
+2      H  
+1   H     
+
+
+kombinacja: 19
+  ABCDEFGH
+
+8     H   
+7        H
+6    H    
+5 H       
+4       H 
+3  H      
+2      H  
+1   H     
+
+
+kombinacja: 20
+  ABCDEFGH
+
+8    H    
+7        H
+6 H       
+5     H   
+4       H 
+3  H      
+2      H  
+1   H     
+
+
+kombinacja: 21
+  ABCDEFGH
+
+8  H      
+7       H 
+6     H   
+5        H
+4 H       
+3    H    
+2      H  
+1   H     
+
+
+kombinacja: 22
+  ABCDEFGH
+
+8 H       
+7       H 
+6     H   
+5        H
+4  H      
+3    H    
+2      H  
+1   H     
+
+
+kombinacja: 23
+  ABCDEFGH
+
+8  H      
+7     H   
+6       H 
+5    H    
+4 H       
+3        H
+2      H  
+1   H     
+
+
+kombinacja: 24
+  ABCDEFGH
+
+8    H    
+7  H      
+6       H 
+5     H   
+4 H       
+3        H
+2      H  
+1   H     
+
+
+kombinacja: 25
+  ABCDEFGH
+
+8     H   
+7       H 
+6 H       
+5    H    
+4  H      
+3        H
+2      H  
+1   H     
+
+
+kombinacja: 26
+  ABCDEFGH
+
+8      H  
+7    H    
+6 H       
+5     H   
+4        H
+3  H      
+2       H 
+1   H     
+
+
+kombinacja: 27
+  ABCDEFGH
+
+8     H   
+7 H       
+6    H    
+5      H  
+4        H
+3  H      
+2       H 
+1   H     
+
+
+kombinacja: 28
+  ABCDEFGH
+
+8     H   
+7  H      
+6      H  
+5 H       
+4       H 
+3    H    
+2        H
+1   H     
+
+
+kombinacja: 29
+  ABCDEFGH
+
+8      H  
+7   H     
+6       H 
+5  H      
+4        H
+3     H   
+2 H       
+1    H    
+
+
+kombinacja: 30
+  ABCDEFGH
+
+8  H      
+7       H 
+6   H     
+5      H  
+4        H
+3     H   
+2 H       
+1    H    
+
+
+kombinacja: 31
+  ABCDEFGH
+
+8       H 
+7   H     
+6 H       
+5      H  
+4        H
+3     H   
+2  H      
+1    H    
+
+
+kombinacja: 32
+  ABCDEFGH
+
+8     H   
+7 H       
+6        H
+5      H  
+4   H     
+3       H 
+2  H      
+1    H    
+
+
+kombinacja: 33
+  ABCDEFGH
+
+8 H       
+7     H   
+6        H
+5      H  
+4   H     
+3       H 
+2  H      
+1    H    
+
+
+kombinacja: 34
+  ABCDEFGH
+
+8   H     
+7      H  
+6        H
+5 H       
+4     H   
+3       H 
+2  H      
+1    H    
+
+
+kombinacja: 35
+  ABCDEFGH
+
+8      H  
+7   H     
+6 H       
+5       H 
+4     H   
+3        H
+2  H      
+1    H    
+
+
+kombinacja: 36
+  ABCDEFGH
+
+8       H 
+7     H   
+6   H     
+5 H       
+4      H  
+3        H
+2  H      
+1    H    
+
+
+kombinacja: 37
+  ABCDEFGH
+
+8       H 
+7   H     
+6        H
+5  H      
+4     H   
+3 H       
+2      H  
+1    H    
+
+
+kombinacja: 38
+  ABCDEFGH
+
+8     H   
+7   H     
+6 H       
+5       H 
+4  H      
+3        H
+2      H  
+1    H    
+
+
+kombinacja: 39
+  ABCDEFGH
+
+8  H      
+7     H   
+6       H 
+5 H       
+4   H     
+3        H
+2      H  
+1    H    
+
+
+kombinacja: 40
+  ABCDEFGH
+
+8   H     
+7      H  
+6  H      
+5     H   
+4        H
+3 H       
+2       H 
+1    H    
+
+
+kombinacja: 41
+  ABCDEFGH
+
+8      H  
+7 H       
+6     H   
+5  H      
+4        H
+3   H     
+2       H 
+1    H    
+
+
+kombinacja: 42
+  ABCDEFGH
+
+8        H
+7   H     
+6 H       
+5      H  
+4  H      
+3     H   
+2       H 
+1    H    
+
+
+kombinacja: 43
+  ABCDEFGH
+
+8  H      
+7        H
+6      H  
+5 H       
+4   H     
+3     H   
+2       H 
+1    H    
+
+
+kombinacja: 44
+  ABCDEFGH
+
+8     H   
+7       H 
+6  H      
+5      H  
+4   H     
+3 H       
+2        H
+1    H    
+
+
+kombinacja: 45
+  ABCDEFGH
+
+8   H     
+7      H  
+6  H      
+5       H 
+4     H   
+3 H       
+2        H
+1    H    
+
+
+kombinacja: 46
+  ABCDEFGH
+
+8      H  
+7  H      
+6       H 
+5 H       
+4   H     
+3     H   
+2        H
+1    H    
+
+
+kombinacja: 47
+  ABCDEFGH
+
+8   H     
+7       H 
+6  H      
+5        H
+4      H  
+3    H    
+2 H       
+1     H   
+
+
+kombinacja: 48
+  ABCDEFGH
+
+8      H  
+7   H     
+6       H 
+5  H      
+4    H    
+3        H
+2 H       
+1     H   
+
+
+kombinacja: 49
+  ABCDEFGH
+
+8    H    
+7  H      
+6       H 
+5   H     
+4      H  
+3        H
+2 H       
+1     H   
+
+
+kombinacja: 50
+  ABCDEFGH
+
+8       H 
+7 H       
+6   H     
+5        H
+4      H  
+3    H    
+2  H      
+1     H   
+
+
+kombinacja: 51
+  ABCDEFGH
+
+8 H       
+7      H  
+6        H
+5   H     
+4       H 
+3    H    
+2  H      
+1     H   
+
+
+kombinacja: 52
+  ABCDEFGH
+
+8   H     
+7        H
+6    H    
+5       H 
+4 H       
+3      H  
+2  H      
+1     H   
+
+
+kombinacja: 53
+  ABCDEFGH
+
+8      H  
+7   H     
+6       H 
+5    H    
+4 H       
+3        H
+2  H      
+1     H   
+
+
+kombinacja: 54
+  ABCDEFGH
+
+8       H 
+7    H    
+6  H      
+5        H
+4      H  
+3 H       
+2   H     
+1     H   
+
+
+kombinacja: 55
+  ABCDEFGH
+
+8    H    
+7      H  
+6        H
+5  H      
+4       H 
+3 H       
+2   H     
+1     H   
+
+
+kombinacja: 56
+  ABCDEFGH
+
+8  H      
+7      H  
+6 H       
+5       H 
+4    H    
+3        H
+2   H     
+1     H   
+
+
+kombinacja: 57
+  ABCDEFGH
+
+8  H      
+7    H    
+6      H  
+5        H
+4   H     
+3 H       
+2       H 
+1     H   
+
+
+kombinacja: 58
+  ABCDEFGH
+
+8   H     
+7      H  
+6        H
+5  H      
+4    H    
+3 H       
+2       H 
+1     H   
+
+
+kombinacja: 59
+  ABCDEFGH
+
+8      H  
+7   H     
+6 H       
+5        H
+4    H    
+3  H      
+2       H 
+1     H   
+
+
+kombinacja: 60
+  ABCDEFGH
+
+8        H
+7    H    
+6 H       
+5   H     
+4      H  
+3  H      
+2       H 
+1     H   
+
+
+kombinacja: 61
+  ABCDEFGH
+
+8    H    
+7        H
+6 H       
+5   H     
+4      H  
+3  H      
+2       H 
+1     H   
+
+
+kombinacja: 62
+  ABCDEFGH
+
+8  H      
+7      H  
+6        H
+5   H     
+4 H       
+3    H    
+2       H 
+1     H   
+
+
+kombinacja: 63
+  ABCDEFGH
+
+8       H 
+7  H      
+6      H  
+5   H     
+4 H       
+3    H    
+2        H
+1     H   
+
+
+kombinacja: 64
+  ABCDEFGH
+
+8   H     
+7      H  
+6  H      
+5       H 
+4 H       
+3    H    
+2        H
+1     H   
+
+
+kombinacja: 65
+  ABCDEFGH
+
+8    H    
+7       H 
+6   H     
+5        H
+4  H      
+3     H   
+2 H       
+1      H  
+
+
+kombinacja: 66
+  ABCDEFGH
+
+8    H    
+7        H
+6     H   
+5   H     
+4 H       
+3       H 
+2  H      
+1      H  
+
+
+kombinacja: 67
+  ABCDEFGH
+
+8   H     
+7     H   
+6        H
+5    H    
+4 H       
+3       H 
+2  H      
+1      H  
+
+
+kombinacja: 68
+  ABCDEFGH
+
+8    H    
+7  H      
+6        H
+5     H   
+4       H 
+3 H       
+2   H     
+1      H  
+
+
+kombinacja: 69
+  ABCDEFGH
+
+8     H   
+7       H 
+6  H      
+5    H    
+4        H
+3 H       
+2   H     
+1      H  
+
+
+kombinacja: 70
+  ABCDEFGH
+
+8       H 
+7    H    
+6  H      
+5     H   
+4        H
+3 H       
+2   H     
+1      H  
+
+
+kombinacja: 71
+  ABCDEFGH
+
+8        H
+7  H      
+6    H    
+5 H       
+4       H 
+3     H   
+2   H     
+1      H  
+
+
+kombinacja: 72
+  ABCDEFGH
+
+8       H 
+7  H      
+6    H    
+5 H       
+4        H
+3     H   
+2   H     
+1      H  
+
+
+kombinacja: 73
+  ABCDEFGH
+
+8     H   
+7 H       
+6        H
+5    H    
+4  H      
+3       H 
+2   H     
+1      H  
+
+
+kombinacja: 74
+  ABCDEFGH
+
+8    H    
+7 H       
+6     H   
+5        H
+4  H      
+3       H 
+2   H     
+1      H  
+
+
+kombinacja: 75
+  ABCDEFGH
+
+8     H   
+7  H      
+6        H
+5 H       
+4    H    
+3       H 
+2   H     
+1      H  
+
+
+kombinacja: 76
+  ABCDEFGH
+
+8   H     
+7       H 
+6  H      
+5        H
+4     H   
+3 H       
+2    H    
+1      H  
+
+
+kombinacja: 77
+  ABCDEFGH
+
+8   H     
+7 H       
+6       H 
+5     H   
+4        H
+3  H      
+2    H    
+1      H  
+
+
+kombinacja: 78
+  ABCDEFGH
+
+8        H
+7  H      
+6     H   
+5   H     
+4 H       
+3       H 
+2    H    
+1      H  
+
+
+kombinacja: 79
+  ABCDEFGH
+
+8   H     
+7     H   
+6  H      
+5        H
+4 H       
+3       H 
+2    H    
+1      H  
+
+
+kombinacja: 80
+  ABCDEFGH
+
+8   H     
+7     H   
+6       H 
+5 H       
+4    H    
+3  H      
+2        H
+1      H  
+
+
+kombinacja: 81
+  ABCDEFGH
+
+8     H   
+7  H      
+6    H    
+5      H  
+4        H
+3   H     
+2 H       
+1       H 
+
+
+kombinacja: 82
+  ABCDEFGH
+
+8      H  
+7   H     
+6     H   
+5        H
+4 H       
+3    H    
+2  H      
+1       H 
+
+
+kombinacja: 83
+  ABCDEFGH
+
+8     H   
+7        H
+6    H    
+5 H       
+4   H     
+3      H  
+2  H      
+1       H 
+
+
+kombinacja: 84
+  ABCDEFGH
+
+8    H    
+7  H      
+6     H   
+5        H
+4      H  
+3 H       
+2   H     
+1       H 
+
+
+kombinacja: 85
+  ABCDEFGH
+
+8    H    
+7      H  
+6 H       
+5     H   
+4  H      
+3        H
+2   H     
+1       H 
+
+
+kombinacja: 86
+  ABCDEFGH
+
+8      H  
+7   H     
+6 H       
+5        H
+4     H   
+3  H      
+2    H    
+1       H 
+
+
+kombinacja: 87
+  ABCDEFGH
+
+8     H   
+7   H     
+6 H       
+5      H  
+4        H
+3  H      
+2    H    
+1       H 
+
+
+kombinacja: 88
+  ABCDEFGH
+
+8    H    
+7  H      
+6        H
+5      H  
+4 H       
+3   H     
+2     H   
+1       H 
+
+
+kombinacja: 89
+  ABCDEFGH
+
+8      H  
+7   H     
+6     H   
+5       H 
+4 H       
+3    H    
+2  H      
+1        H
+
+
+kombinacja: 90
+  ABCDEFGH
+
+8      H  
+7    H    
+6       H 
+5 H       
+4   H     
+3     H   
+2  H      
+1        H
+
+
+kombinacja: 91
+  ABCDEFGH
+
+8    H    
+7       H 
+6     H   
+5  H      
+4      H  
+3 H       
+2   H     
+1        H
+
+
+kombinacja: 92
+  ABCDEFGH
+
+8     H   
+7       H 
+6  H      
+5      H  
+4   H     
+3 H       
+2    H    
+1        H
+
+
+BUILD SUCCESSFUL (total time: 0 seconds)
